@@ -1,17 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Angelica Li | Portfolio
+description: My personal portfolio website.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# url: "http://angelicali.me" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+username: Angelica Li
+user_description: I'm a recent graduate from the CS Specialist program at the University of Toronto with a focus in Artificial Intelligence. I'm passionate about applications in machine learning, computer vision, and natural language processing and have experience as a full stack software developer. I'm originally from Lima, Peru and some hobbies I have are painting and reading about astronomy and astrophysics.
 user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+email: liley.angelica@gmail.com
+github_username:  angelicali93
 
 # Google-analytics
 google-analytics:

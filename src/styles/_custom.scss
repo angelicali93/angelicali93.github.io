@@ -1,0 +1,12 @@
+.matlab-logo {
+	width: 75px;
+}
+
+#courses, #experience {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 960px;
+  @media only screen and (min-width: $cut) {
+    width: 80%;
+  }
+}
